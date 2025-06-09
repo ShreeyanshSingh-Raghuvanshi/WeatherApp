@@ -179,7 +179,7 @@ export default function WeatherApp() {
           </CardContent>
         </Card>
       )}
-      <footer> <h1> Project by : Shreeyansh Singh </h1></footer>
+      <footer> <h3> Project by : Shreeyansh Singh </h3></footer>
     </div>
   );
 }
